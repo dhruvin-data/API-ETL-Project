@@ -18,7 +18,7 @@ By centralizing and visualizing these datasets, the project supports **data-driv
 
 ### **View Full Dashboards PDF**
 
-📊 [Click here to view the PDF](Dashboards.pdf)
+📊 [Click here to view the PDF](Vancouver_API_Data_ETL/Dashboards.pdf)
 
 ---
 
