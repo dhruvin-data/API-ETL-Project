@@ -16,6 +16,10 @@ The project addresses critical urban and community needs by leveraging open data
 
 By centralizing and visualizing these datasets, the project supports **data-driven decision-making** for public agencies, councils, and policymakers in Vancouver.
 
+### **View Full Dashboards PDF**
+
+📊 [Click here to view the PDF](Dashboards.pdf)
+
 ---
 
 ### **Key Features**  
